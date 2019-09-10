@@ -26,3 +26,5 @@ hs_err_pid*
 /.project
 /.springBeans
 /.settings/*
+*.DS_Store
+src/main/webapp/WEB-INF/spring/root-context.xml
